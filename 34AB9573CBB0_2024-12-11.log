@@ -1,0 +1,216 @@
+[2024-12-10 09:48:02] [132045 ms] [INFO    ] [Core 1] Log file rotated due to size limit
+[2024-12-10 09:48:02] [132057 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:02] [132088 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:02] [132129 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:07] [137182 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:07] [137246 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:08] [137322 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:08] [137544 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:08] [137598 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:13] [142654 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:13] [142711 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:13] [142773 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:13] [142842 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:13] [142929 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:18] [148000 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:18] [148075 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:18] [148153 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:18] [148236 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:19] [148321 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:24] [153412 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:24] [153503 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:24] [153611 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:24] [153713 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:24] [153942 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:29] [159002 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:29] [159063 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:29] [159126 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:29] [159200 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:30] [159286 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:35] [164362 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:35] [164441 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:35] [164526 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:35] [164612 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:35] [164702 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:48:59] [6841 ms] [INFO    ] [Core 1] System initialized successfully
+[2024-12-10 09:48:59] [6950 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:48:59] [7054 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:48:59] [7160 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:48:59] [7267 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:48:59] [7529 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:04] [12595 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:04] [12664 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:05] [12742 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:05] [12819 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:05] [12900 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:10] [17982 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:10] [18073 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:10] [18162 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:10] [18259 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:10] [18356 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:15] [23459 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:15] [23562 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:15] [23671 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:16] [23786 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:16] [23897 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:21] [29176 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:21] [29278 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:21] [29332 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:21] [29390 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:21] [29451 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:26] [34515 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:26] [34582 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:26] [34657 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:27] [34738 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:27] [34816 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:32] [39898 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:32] [39984 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:32] [40071 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:32] [40163 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:32] [40280 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:37] [45387 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:37] [45609 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:37] [45664 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:38] [45722 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:38] [45789 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:43] [50855 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:43] [50924 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:43] [51000 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:43] [51077 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:43] [51156 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:48] [56240 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:48] [56326 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:48] [56420 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:48] [56514 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:48] [56622 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:54] [61730 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:54] [61834 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:54] [62065 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:54] [62128 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:54] [62195 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:49:59] [67266 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:49:59] [67343 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:49:59] [67424 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:49:59] [67506 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:49:59] [67591 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:04] [72678 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:05] [72769 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:05] [72864 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:05] [72966 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:05] [73083 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:10] [78207 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:10] [78316 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:10] [78428 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:10] [78665 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:11] [78734 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:16] [83807 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:16] [83883 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:16] [83965 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:16] [84047 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:16] [84133 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:21] [89228 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:21] [89320 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:21] [89447 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:21] [89549 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:21] [89651 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:27] [94737 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:27] [94826 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:27] [94920 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:27] [95023 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:27] [95243 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:32] [100296 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:32] [100355 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:32] [100414 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:32] [100477 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:32] [100544 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:37] [105617 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:38] [105691 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:38] [105768 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:38] [105873 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:38] [105968 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:43] [111057 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:43] [111148 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:43] [111242 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:43] [111340 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:43] [111438 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:48] [116663 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:49] [116724 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:49] [116789 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:49] [116854 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:49] [116922 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:54] [121996 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:54] [122073 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:54] [122154 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:50:54] [122255 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:50:54] [122351 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:50:59] [127451 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:50:59] [127547 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:50:59] [127646 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:00] [127750 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:00] [127856 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:05] [132963 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:05] [133200 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:05] [133269 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:05] [133339 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:05] [133413 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:10] [138490 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:10] [138574 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:10] [138656 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:11] [138759 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:11] [138869 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:16] [143964 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:16] [144062 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:16] [144164 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:16] [144268 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:16] [144380 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:21] [149491 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:21] [149602 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:22] [149874 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:22] [149923 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:22] [149977 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:27] [155035 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:27] [155099 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:27] [155191 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:27] [155272 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:27] [155344 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:32] [160418 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:32] [160497 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:32] [160577 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:32] [160666 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:33] [160754 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:38] [165846 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:38] [165942 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:38] [166044 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:38] [166267 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:38] [166322 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:43] [171381 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:43] [171444 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:43] [171529 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:43] [171604 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:43] [171676 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:49] [176758 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:49] [176837 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:49] [176920 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:49] [177008 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:49] [177099 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:51:54] [182193 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:51:54] [182291 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:51:54] [182408 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:51:54] [182512 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:51:55] [182747 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:52:00] [187810 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:52:00] [187877 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:52:00] [187963 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:52:00] [188049 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:52:00] [188131 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 09:52:05] [193212 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 09:52:05] [193297 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 09:52:05] [193384 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 09:52:05] [193479 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 09:52:05] [193574 ms] [CRITICAL] [Core 1] System overheating!
+[2024-12-10 10:29:56] [3111 ms] [INFO    ] [Core 1] System initialized successfully
+[2024-12-10 10:29:56] [3227 ms] [DEBUG   ] [Core 1] This is a debug message
+[2024-12-10 10:29:56] [3333 ms] [INFO    ] [Core 1] Temperature: 25.6°C
+[2024-12-10 10:29:56] [3440 ms] [WARNING ] [Core 1] Battery low!
+[2024-12-10 10:29:57] [3548 ms] [ERROR   ] [Core 1] Sensor not responding
+[2024-12-10 10:29:57] [3790 ms] [CRITICAL] [Core 1] System overheating!
